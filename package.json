@@ -1,0 +1,16 @@
+{
+  "name": "mon-bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-ar.js",
+  "scripts": {
+    "start": "node index-ar.js",
+    "dev": "nodemon index-ar.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}
